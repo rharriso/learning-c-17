@@ -13,3 +13,6 @@ add_executable(01-04-template-sum src/ch1/01-04-template-sum.cpp)
 add_executable(01-05-range-match src/ch1/01-05-range-match.cpp)
 add_executable(01-06-insert-all src/ch1/01-06-insert-all.cpp)
 add_executable(01-07-check-range src/ch1/01-07-check-range.cpp)
+
+# ch 2 examples
+add_executable(02-01-erase-idiom src/ch2/02-01-erase-idiom.cpp)
