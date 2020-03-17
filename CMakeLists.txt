@@ -16,3 +16,5 @@ add_executable(01-07-check-range src/ch1/01-07-check-range.cpp)
 
 # ch 2 examples
 add_executable(02-01-erase-idiom src/ch2/02-01-erase-idiom.cpp)
+add_executable(02-02-efficiently-modifying-map-keys src/ch2/02-02-efficiently-modifying-map-keys.cpp)
+add_executable(02-03-unordered-map-custom-types src/ch2/02-03-unordered-map-custom-types.cpp)
