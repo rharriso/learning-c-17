@@ -23,6 +23,7 @@ add_executable(02-01-erase-idiom src/cpp-17-cookbook/ch2/02-01-erase-idiom.cpp)
 add_executable(02-02-efficiently-modifying-map-keys src/cpp-17-cookbook/ch2/02-02-efficiently-modifying-map-keys.cpp)
 add_executable(02-03-unordered-map-custom-types src/cpp-17-cookbook/ch2/02-03-unordered-map-custom-types.cpp)
 add_executable(02-04-inputstream-with-iterator src/cpp-17-cookbook/ch2/02-04-inputstream-with-iterator.cpp)
+add_executable(02-05-calculator-with-stack src/cpp-17-cookbook/ch2/02-05-calculator-with-stack.cpp)
 
 #
 # System Programming With C++
