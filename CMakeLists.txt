@@ -34,6 +34,7 @@ configure_file(src/hands-on-system-prog/hello.txt hello.txt)
 add_executable(2020-03-17-00-gsl-pointer-arith src/hands-on-system-prog/2020-03-17-00-gsl-pointer-arith.cpp)
 add_executable(2020-03-19-00-contracts src/hands-on-system-prog/2020-03-19-00-contracts.cpp)
 add_executable(2020-03-19-01-contracts src/hands-on-system-prog/2020-03-19-01-contracts.cpp)
+add_executable(2020-03-19-02-gls-owner src/hands-on-system-prog/2020-03-19-02-gls-owner.cpp)
 
 # find and include header headers
 find_package(MicrosoftGSL CONFIG)
