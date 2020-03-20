@@ -30,8 +30,10 @@ add_executable(02-05-calculator-with-stack src/cpp-17-cookbook/ch2/02-05-calcula
 #
 add_executable(2020-03-16-00-raii-with-simple-class src/hands-on-system-prog/2020-03-16-00-raii-with-simple-class.cpp)
 add_executable(2020-03-16-01-raii-with-file src/hands-on-system-prog/2020-03-16-01-raii-with-file.cpp)
-add_executable(2020-03-17-00-gsl-pointer-arith src/hands-on-system-prog/2020-03-17-00-gsl-pointer-arith.cpp)
 configure_file(src/hands-on-system-prog/hello.txt hello.txt)
+add_executable(2020-03-17-00-gsl-pointer-arith src/hands-on-system-prog/2020-03-17-00-gsl-pointer-arith.cpp)
+add_executable(2020-03-19-00-contracts src/hands-on-system-prog/2020-03-19-00-contracts.cpp)
+add_executable(2020-03-19-01-contracts src/hands-on-system-prog/2020-03-19-01-contracts.cpp)
 
 # find and include header headers
 find_package(MicrosoftGSL CONFIG)
