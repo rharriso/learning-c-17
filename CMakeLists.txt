@@ -25,6 +25,7 @@ add_executable(02-03-unordered-map-custom-types src/cpp-17-cookbook/ch2/02-03-un
 add_executable(02-04-inputstream-with-iterator src/cpp-17-cookbook/ch2/02-04-inputstream-with-iterator.cpp)
 add_executable(02-05-calculator-with-stack src/cpp-17-cookbook/ch2/02-05-calculator-with-stack.cpp)
 add_executable(02-06-work-counter-map src/cpp-17-cookbook/ch2/02-06-work-counter-map.cpp)
+add_executable(02-07-multimap-writing-style-helper src/cpp-17-cookbook/ch2/02-07-multimap-writing-style-helper.cpp)
 configure_file(src/cpp-17-cookbook/ch2/de-bello-gallico.txt de-bello-gallico.txt)
 
 #
